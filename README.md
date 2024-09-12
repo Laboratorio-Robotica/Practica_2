@@ -35,8 +35,8 @@ Fend
 
 En el siguiente video se muestra el movimiento realizado utilizando el código anterior, cuyo objetivo fue tomar un fusible con la garra y trasladarlo a otro punto asignado por el profesor. Este proceso demuestra el correcto funcionamiento del sistema y cumple con los objetivos establecidos para la práctica
 
+https://drive.google.com/drive/folders/1HjE7HlarkAU024qj9DKuwbbv-v8hnPId?usp=drive_link
 
-[![](https://drive.google.com/drive/folders/1HjE7HlarkAU024qj9DKuwbbv-v8hnPId?usp=drive_link)](https://drive.google.com/drive/folders/1HjE7HlarkAU024qj9DKuwbbv-v8hnPId?usp=drive_link)
 ## Conclusiones:  
 ### Francisco Javier Godinez Lopez:
 
