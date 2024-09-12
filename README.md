@@ -19,7 +19,7 @@ El segundo paso fue profundizar más en la programación, conociendo los comando
 ![WhatsApp Image 2024-09-05 at 7 50 27 PM](https://github.com/user-attachments/assets/119bf538-65c7-435b-9ef4-b1bfec92188c)
 
 De tal manera que el codigo desarrollado quedo de la siguiente manera:
-
+'''
 Function main
 Home
 ON 2
@@ -31,6 +31,7 @@ GO soltar
 ON 2
 Home
 Fend
+'''
 
 En el siguiente video se muestra el movimiento realizado utilizando el código anterior, cuyo objetivo fue tomar un fusible con la garra y trasladarlo a otro punto asignado por el profesor. Este proceso demuestra el correcto funcionamiento del sistema y cumple con los objetivos establecidos para la práctica
 
