@@ -39,8 +39,11 @@ https://drive.google.com/drive/folders/1HjE7HlarkAU024qj9DKuwbbv-v8hnPId?usp=dri
 
 ## Conclusiones:  
 ### Francisco Javier Godinez Lopez:
+Esta práctica brindó la descubrimiento de familiarizarnos con algunas de las herramientas que ofrece el programa Epson RC+, permitiendo averiguar nuevas áreas de programación para la automatización del brazo robotico utilizado en el curso, de este modo aplicamos los comandos ON, GO y OFF, los cuales son necesarios para realizar movimientos y tareas en el brazo mecánico. Esto nos permitió comprender de manera más profunda las capacidades de control y precisión de la automatización.
+
 
 ### Pablo Axel Silva Fuentes: 
+ De primera instancia esta práctica se logró aprender una característica importante del software, lo que posibilitó adquirir conocimientos adicionales sobre programación, así como llevar a cabo movimientos precisos con el brazo robótico. El uso correcto de los comandos ON, GO y OFF fue necesario para completar la tarea de trasladar un objeto a una ubicación precisa, resaltando las habilidades del sistema en cuanto a exactitud y manejo.
 
 ### Eduardo David Salas Ayala: 
 El desarrollo de esta practica permitio conocer una de las tantas herramientas que nos brinda del software Epson RC+, permitiendo cononocer nuevas secciones de programación y la ejecución de movimientos tanto en el simulador como en el brazo físico. El conocimiento de comandos básicos como ON, GO y OFF, junto con su correcta implementación, permitió cumplir eficazmente el objetivo de tomar un objeto y trasladarlo a otro punto, lo que ayudó a comprender mejor las capacidades de movimiento y precisión del brazo robótico.
