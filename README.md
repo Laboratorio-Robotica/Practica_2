@@ -39,7 +39,7 @@ https://drive.google.com/drive/folders/1HjE7HlarkAU024qj9DKuwbbv-v8hnPId?usp=dri
 
 ## Conclusiones:  
 ### Francisco Javier Godinez Lopez:
-Esta práctica brindó la descubrimiento de familiarizarnos con algunas de las herramientas que ofrece el programa Epson RC+, permitiendo averiguar nuevas áreas de programación para la automatización del brazo robotico utilizado en el curso, de este modo aplicamos los comandos ON, GO y OFF, los cuales son necesarios para realizar movimientos y tareas en el brazo mecánico. Esto nos permitió comprender de manera más profunda las capacidades de control y precisión de la automatización.
+Esta práctica brindó la descubrimiento de familiarizarnos con algunas de las herramientas que ofrece el programa Epson RC+, permitiendo averiguar nuevas formas de programación para la automatización del brazo robotico utilizado en el curso, de este modo aplicamos los comandos ON, GO y OFF, los cuales son necesarios para realizar movimientos y tareas en el brazo mecánico. Esto permitió comprender de manera más profunda las capacidades de control y precisión del brazo y su movimiento.
 
 
 ### Pablo Axel Silva Fuentes: 
@@ -49,3 +49,4 @@ Esta práctica brindó la descubrimiento de familiarizarnos con algunas de las h
 El desarrollo de esta practica permitio conocer una de las tantas herramientas que nos brinda del software Epson RC+, permitiendo cononocer nuevas secciones de programación y la ejecución de movimientos tanto en el simulador como en el brazo físico. El conocimiento de comandos básicos como ON, GO y OFF, junto con su correcta implementación, permitió cumplir eficazmente el objetivo de tomar un objeto y trasladarlo a otro punto, lo que ayudó a comprender mejor las capacidades de movimiento y precisión del brazo robótico.
 
 ## Referencias bibliográficas
+- Localización y planificación de trayectorias - TEKNIKER. (s. f.). https://www.tekniker.es/es/localizacion-y-planificacion-de-trayectorias
