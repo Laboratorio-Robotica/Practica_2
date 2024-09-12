@@ -41,6 +41,7 @@ En el siguiente video se muestra el movimiento realizado utilizando el código a
 
 ### Pablo Axel Silva Fuentes: 
 
-### Eduardo David Salas Ayala: El desarrollo de esta practica permitio conocer una de las tantas herramientas que nos brinda del software Epson RC+, permitiendo cononocer nuevas secciones de programación y la ejecución de movimientos tanto en el simulador como en el brazo físico. El conocimiento de comandos básicos como ON, GO y OFF, junto con su correcta implementación, permitió cumplir eficazmente el objetivo de tomar un objeto y trasladarlo a otro punto, lo que ayudó a comprender mejor las capacidades de movimiento y precisión del brazo robótico.
+### Eduardo David Salas Ayala: 
+El desarrollo de esta practica permitio conocer una de las tantas herramientas que nos brinda del software Epson RC+, permitiendo cononocer nuevas secciones de programación y la ejecución de movimientos tanto en el simulador como en el brazo físico. El conocimiento de comandos básicos como ON, GO y OFF, junto con su correcta implementación, permitió cumplir eficazmente el objetivo de tomar un objeto y trasladarlo a otro punto, lo que ayudó a comprender mejor las capacidades de movimiento y precisión del brazo robótico.
 
 ## Referencias bibliográficas
